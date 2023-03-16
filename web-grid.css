@@ -9,7 +9,7 @@
 
 body{
     /* height를 줘야 뷰포트 정중앙 가운데정렬이 됨 */
-    height:100vh;
+    min-height:100vh;
     display: flex;
     justify-content: center;
     align-items: center;
